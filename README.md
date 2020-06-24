@@ -7,4 +7,6 @@ Step 2. Next we need main.py script. This script is the perfect instance of Pyth
 
 Step 3. Now we need template page for uploading file. This is upload.html page kept under subdirectory – templates. You can use this page for uploading single file.
 
+run on cmd  python main.py
+
 Reff:https://www.roytuts.com/python-flask-file-upload-example
